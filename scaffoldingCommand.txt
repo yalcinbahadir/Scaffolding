@@ -1,0 +1,1 @@
+//dotnet ef dbcontext scaffold "Data Source=PF1GGK43\SQLEXPRESS02;Initial Catalog=Samurais;MultipleActiveResultSets=true; Integrated Security=true;" Microsoft.EntityFrameworkCore.SqlServer
